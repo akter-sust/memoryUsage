@@ -4,13 +4,20 @@ To record memory usage run `memory_history.sh` file
 
 requirements
 1. Install bc
+
     For linux/Ubuntu: 
-      sudo apt-get update -y
-      sudo apt-get install -y bc
+    
+      `sudo apt-get update -y`
+      
+      `sudo apt-get install -y bc`
+      
 2. Install jq
+
     For linux/Ubuntu: 
-      sudo apt-get update -y
-      sudo apt-get install jq
+    
+      `sudo apt-get update -y`
+      
+      `sudo apt-get install jq`
 
 the memory usage will be saved in the same folder and name will be history_memory_<DATE>.txt
   
